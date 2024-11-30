@@ -1,3 +1,7 @@
+---
+icon: rocket-launch
+---
+
 # Primeiros Passos
 
 Siga este guia para começar a usar o **1Click.AI**:
@@ -7,6 +11,7 @@ Siga este guia para começar a usar o **1Click.AI**:
 3. **Explore os Recursos**: Utilize as ferramentas de IA, prompts prontos e chat.
 
 Para desbloquear o potencial completo do app, considere experimentar o plano premium, que oferece:
-- Acesso ilimitado sem anúncios.
-- Ferramentas avançadas e integração direta com WhatsApp.
-- Gerador de imagens IA e modelos de IA mais poderosos.
+
+* Acesso ilimitado sem anúncios.
+* Ferramentas avançadas e integração direta com WhatsApp.
+* Gerador de imagens IA e modelos de IA mais poderosos.

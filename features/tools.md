@@ -1,3 +1,7 @@
+---
+icon: screwdriver-wrench
+---
+
 # Ferramentas
 
 O **1Click.AI** oferece uma série de ferramentas poderosas:

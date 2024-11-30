@@ -1,5 +1,5 @@
 ---
-icon: hand-wave
+icon: house-flag
 cover: .gitbook/assets/1-Click_Logo-01_1920x1080px.png
 coverY: 0
 layout:

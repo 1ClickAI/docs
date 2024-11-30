@@ -1,6 +1,6 @@
 # Table of contents
 
-* [😁 Bem-vindo](README.md)
+* [Bem-vindo](README.md)
 
 ## INTRODUÇÃO
 

@@ -1,3 +1,7 @@
+---
+icon: book-open
+---
+
 # Instalação da Evolution API
 
 A Evolution API é usada para conectar agentes no WhatsApp e gerenciar automações. Este guia mostra como configurá-la utilizando o EasyPanel.

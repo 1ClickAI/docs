@@ -1,3 +1,7 @@
+---
+icon: book-open
+---
+
 # Instalação do EasyPanel
 
 Este guia explica como instalar o EasyPanel em um servidor VPS, facilitando a gestão de aplicações como a Evolution API.

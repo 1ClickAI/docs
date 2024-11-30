@@ -1,3 +1,7 @@
+---
+icon: robot
+---
+
 # Assistentes Personalizados
 
 Com o **1Click.AI**, criar seu próprio assistente de inteligência artificial nunca foi tão fácil! Você pode fazer tudo diretamente pelo aplicativo, utilizando apenas o seu celular.

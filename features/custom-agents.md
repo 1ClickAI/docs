@@ -36,8 +36,8 @@ Ao optar pelo plano **Premium**, você desbloqueia benefícios adicionais:
 Todos os usuários, gratuitos ou premium, podem configurar fontes de dados externas para enriquecer as respostas do assistente:
 
 1. **API Dinâmica**: Configure uma API própria para alimentar seu agente com informações atualizadas diretamente de seus sistemas.
-2. **Sistema de Fontes de Dados da 1Click**:
-   * Acesse [https://editor.mygpt.dev/](https://editor.mygpt.dev/).
+2. **Sistema de Fontes de Dados grátis da 1ClickAI**:
+   * Acesse [https://mygpt.dev](https://mygpt.dev/)
    * Clique em **NEW PAD** e edite as informações do seu agente.
    * Exporte o conteúdo como um arquivo **TXT**.
    * No app, insira a **URL do arquivo exportado TXT** no campo de **Fonte de Dados**.

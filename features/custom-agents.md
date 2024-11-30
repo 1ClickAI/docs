@@ -33,7 +33,7 @@ Todos os usuários, gratuitos ou premium, podem configurar fontes de dados exter
    - Acesse [https://editor.mygpt.dev/](https://editor.mygpt.dev/).
    - Clique em **NEW PAD** e edite as informações do seu agente.
    - Exporte o conteúdo como um arquivo **TXT**.
-   - No app, insira a URL do arquivo exportado no campo de **Fonte de Dados**.
+   - No app, insira a **URL do arquivo exportado TXT** no campo de **Fonte de Dados**.
    - Toda vez que você atualizar o arquivo via editor, o agente lerá automaticamente as novas informações. ⚠️ **Atenção**: Não compartilhe o link de edição para evitar alterações indesejadas por terceiros.
 
 ## 🛠️ Consultando o Plano Grátis

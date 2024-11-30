@@ -14,18 +14,19 @@ Os assistentes personalizados do **1Click.AI** são poderosos e versáteis, com 
   - Caso o usuário não tenha o app, ele será redirecionado para fazer o download automaticamente.
 - **📲 Conexão com WhatsApp**:
   - **Grátis**: Monte um VPS e conecte o número do WhatsApp ao agente. O assistente responderá utilizando este número.
-  - **Premium**: Simplesmente escaneie um QR Code no app com o número do WhatsApp e seu agente estará pronto para responder!
+  - **Premium**: Simplesmente escaneie um QR Code no app com o número do WhatsApp, e seu agente estará pronto para responder. Além disso:
+    - O WhatsApp ficará conectado a milhares de **proxies dinâmicos**, reduzindo o risco de banimento por não utilizar um único IP estático.
+    - Suporte para envio e recebimento de **áudio** e **imagens**.
 
 ## 💎 Exclusividades Premium
 Ao optar pelo plano **Premium**, você desbloqueia benefícios adicionais:
-- Suporte para **mensagens de áudio**.
-- Envio e recebimento de **imagens**.
 - Integração simplificada, sem a necessidade de configurar um VPS.
-- **Fontes de Dados Externas**: Conecte o agente a APIs dinâmicas ou bancos de dados para fornecer informações em tempo real.
+- Conexão segura via **proxies dinâmicos**, diminuindo o risco de bloqueios no WhatsApp.
+- Recursos avançados de mídia: envio e recebimento de **áudios** e **imagens**.
 - Consulte os **planos Premium** no app para mais detalhes. 🛒
 
 ## 🗂️ Integração com Fontes de Dados
-Além da personalização básica, é possível usar fontes externas para enriquecer as respostas do seu assistente:
+Todos os usuários, gratuitos ou premium, podem configurar fontes de dados externas para enriquecer as respostas do assistente:
 
 1. **API Dinâmica**: Configure uma API própria para alimentar seu agente com informações atualizadas diretamente de seus sistemas.
 2. **Sistema de Fontes de Dados da 1Click**:

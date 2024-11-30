@@ -33,7 +33,7 @@ Este guia explica como instalar o EasyPanel em um servidor VPS, facilitando a ge
 
 Agora seu EasyPanel está pronto para gerenciar aplicações. Continue com o guia de [Instalação da Evolution API](tutorial-evolution-api.md).
 
-{% embed url="https://easypanel.io/" %}
+{% embed url="https://easypanel.io/docs" %}
 
 {% embed url="https://www.vultr.com/marketplace/apps/easypanel/" %}
 

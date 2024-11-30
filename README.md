@@ -1,6 +1,6 @@
 ---
 icon: hand-wave
-cover: https://yourcoverimageurl.com/header.png
+cover: .gitbook/assets/1-Click_Logo-01_1920x1080px.png
 coverY: 0
 layout:
   cover:
@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# Bem-vindo ao 1Click.AI
+# Bem-vindo
 
 Bem-vindo à documentação oficial do **1Click.AI**! Aqui você encontrará tudo o que precisa para entender, configurar e aproveitar ao máximo as funcionalidades do nosso aplicativo.
 

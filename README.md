@@ -1,6 +1,6 @@
 ---
 icon: hand-wave
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
+cover: https://yourcoverimageurl.com/header.png
 coverY: 0
 layout:
   cover:
@@ -18,12 +18,12 @@ layout:
     visible: true
 ---
 
-# Welcome
+# Bem-vindo ao 1Click.AI
 
-Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
+Bem-vindo à documentação oficial do **1Click.AI**! Aqui você encontrará tudo o que precisa para entender, configurar e aproveitar ao máximo as funcionalidades do nosso aplicativo.
 
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+O **1Click.AI** foi criado para simplificar o acesso à inteligência artificial e torná-la acessível a todos. Esta documentação fornecerá uma visão geral detalhada dos recursos, tutoriais de configuração e informações importantes.
 
-### Jump right in
+### Explore a documentação
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Create your first site</td><td></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><strong>Basics</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Introdução</strong></td><td>Saiba mais sobre o app e sua missão</td><td></td><td></td><td><a href="introduction/overview.md">overview.md</a></td></tr><tr><td><strong>Guias</strong></td><td>Aprenda a configurar e usar o app</td><td></td><td></td><td><a href="guides/getting-started.md">getting-started.md</a></td></tr><tr><td><strong>Recursos</strong></td><td>Explore as funcionalidades</td><td></td><td></td><td><a href="features/tools.md">tools.md</a></td></tr></tbody></table>

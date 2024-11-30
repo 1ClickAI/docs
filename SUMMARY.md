@@ -16,3 +16,8 @@
 * [Ferramentas](features/tools.md)
 * [Gerador de Imagens IA](features/image-generator.md)
 * [Assistentes Personalizados](features/custom-agents.md)
+
+## Tutoriais
+
+* [Instalação do EasyPanel](tutorial-easypanel.md)
+* [Instalação da Evolution API](tutorial-evolution-api.md)

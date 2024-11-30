@@ -43,6 +43,8 @@ Todos os usuários, gratuitos ou premium, podem configurar fontes de dados exter
    * No app, insira a **URL do arquivo exportado TXT** no campo de **Fonte de Dados**.
    * Toda vez que você atualizar o arquivo via editor, o agente lerá automaticamente as novas informações. ⚠️ **Atenção**: Não compartilhe o link de edição para evitar alterações indesejadas por terceiros.
 
+<figure><img src="../.gitbook/assets/Captura de Tela 2024-11-30 às 16.49.55.png" alt=""><figcaption><p><a href="https://editor.mygpt.dev/">https://editor.mygpt.dev/</a></p></figcaption></figure>
+
 ## 🛠️ Consultando o Plano Grátis
 
 Para montar seu VPS e utilizar o plano gratuito, confira o tutorial detalhado disponível no menu: [**Instalação do EasyPanel e Evolution API**](../tutorial-easypanel.md).
